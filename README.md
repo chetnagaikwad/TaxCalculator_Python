@@ -20,6 +20,7 @@ Python Tkinter project for income tax calculation with slab breakdown, rebate an
 Download the project and run the Python file in any Python IDE such as IDLE, VS Code or PyCharm.
 
 ## 🔗 Repository Link
+https://github.com/chetnagaikwad/TaxCalculator_Python
 
 ## 📷 Project Screenshot
 
