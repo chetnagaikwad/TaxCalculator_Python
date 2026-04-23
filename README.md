@@ -24,4 +24,4 @@ https://github.com/chetnagaikwad/TaxCalculator_Python
 
 ## 📷 Project Screenshot
 
-![Tax Calculator UI](python.jpg)
+![Tax Calculator UI](python.JPG)
