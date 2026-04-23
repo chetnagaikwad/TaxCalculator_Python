@@ -21,5 +21,6 @@ Download the project and run the Python file in any Python IDE such as IDLE, VS 
 
 ## 🔗 Repository Link
 
-## Project Screenshot
-(Upload screenshot later here)
+## 📷 Project Screenshot
+
+![Tax Calculator UI](python.jpg)
